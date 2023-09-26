@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -37,18 +25,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Valencia de las Torres",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-22T11:22:12.872Z",
-      "notes": "",
-      "position": {
-        "lat": "38.43929208449103",
-        "lng": "-5.932513732670678"
-      },
-      "id": "2023-09-22T11:22:12.872Z"
-    },
-    {
       "cityName": "Hamm",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -59,126 +35,6 @@
         "lng": "7.841506139788691"
       },
       "id": "2023-09-22T11:26:23.779Z"
-    },
-    {
-      "cityName": "Bonnat",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-09-22T11:31:26.998Z",
-      "notes": "bra",
-      "position": {
-        "lat": "46.34420542047516",
-        "lng": "1.9335339760986117"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Bonnat",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-09-22T11:32:54.600Z",
-      "notes": "sgas",
-      "position": {
-        "lat": "46.34420542047516",
-        "lng": "1.9335339760986117"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Haizer",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-09-22T11:33:20.624Z",
-      "notes": "sgasdga",
-      "position": {
-        "lat": "36.452223760113114",
-        "lng": "4.0872949295383085"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "El Abiodh Sidi Cheikh",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-09-22T11:33:40.920Z",
-      "notes": "",
-      "position": {
-        "lat": "31.909289488670613",
-        "lng": "1.0107958307448464"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Pozzaglio ed Uniti",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2023-09-22T11:33:53.007Z",
-      "notes": "",
-      "position": {
-        "lat": "45.21459283010391",
-        "lng": "10.063498891016996"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Bilma",
-      "country": "Niger (the)",
-      "emoji": "🇳🇪",
-      "date": "2023-09-22T11:34:11.942Z",
-      "notes": "asdgad",
-      "position": {
-        "lat": "21.4389116520456",
-        "lng": "12.129251099431094"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Новомартыновскии",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2023-09-22T11:34:25.627Z",
-      "notes": "sdgasdg",
-      "position": {
-        "lat": "47.337681690858204",
-        "lng": "41.74794571916689"
-      },
-      "id": 98443204
-    },
-    {
-      "cityName": "Gorzow Wielkopolski",
-      "country": "Poland",
-      "emoji": "🇵🇱",
-      "date": "2023-09-22T11:34:34.302Z",
-      "notes": "dsgfasd",
-      "position": {
-        "lat": "52.72287093464325",
-        "lng": "15.250418808458381"
-      },
-      "id": 98443205
-    },
-    {
-      "cityName": "Celestynow",
-      "country": "Poland",
-      "emoji": "🇵🇱",
-      "date": "2023-09-22T11:35:11.331Z",
-      "notes": "gdsagasdg",
-      "position": {
-        "lat": "52.10049405399038",
-        "lng": "21.328581733913165"
-      },
-      "id": 98443206
-    },
-    {
-      "cityName": "Nowa Sucha",
-      "country": "Poland",
-      "emoji": "🇵🇱",
-      "date": "2023-09-22T11:37:16.939Z",
-      "notes": "sdgasga",
-      "position": {
-        "lat": "52.14352297218503",
-        "lng": "20.228580563660213"
-      },
-      "id": 98443207
     },
     {
       "cityName": "Kiernozia",
@@ -227,42 +83,6 @@
         "lng": "-4.350309622102258"
       },
       "id": 98443211
-    },
-    {
-      "cityName": "Cazalla de la Sierra",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-22T11:41:41.405Z",
-      "notes": "fsdf",
-      "position": {
-        "lat": "37.99906823409074",
-        "lng": "-5.77871788414973"
-      },
-      "id": 98443212
-    },
-    {
-      "cityName": "Jerez de los Caballeros",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-22T11:43:05.345Z",
-      "notes": "",
-      "position": {
-        "lat": "38.343574511675136",
-        "lng": "-6.745544065328274"
-      },
-      "id": 98443213
-    },
-    {
-      "cityName": "Caltagirone",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2023-09-22T11:43:11.519Z",
-      "notes": "sdgasdg",
-      "position": {
-        "lat": "37.12145507731708",
-        "lng": "14.501837408857572"
-      },
-      "id": 98443214
     }
   ]
 }
