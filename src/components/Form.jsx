@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 /* eslint-disable no-unused-vars */
 // "https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=0&longitude=0"
 import { useEffect, useState } from "react";
@@ -46,7 +47,6 @@ function Form() {
           );
           if (!res.ok) throw new Error("Fetching went wrong");
           const data = await res.json();
-          console.log(data);
 
           if (!data.countryCode)
             throw new Error(

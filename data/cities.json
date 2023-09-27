@@ -37,18 +37,6 @@
       "id": "2023-09-22T11:26:23.779Z"
     },
     {
-      "cityName": "Kiernozia",
-      "country": "Poland",
-      "emoji": "🇵🇱",
-      "date": "2023-09-22T11:39:14.602Z",
-      "notes": "sgadgasgda",
-      "position": {
-        "lat": "52.269757804346895",
-        "lng": "19.900365830964517"
-      },
-      "id": 98443208
-    },
-    {
       "cityName": "Argecilla",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -73,14 +61,14 @@
       "id": 98443210
     },
     {
-      "cityName": "Piedrabuena",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-22T11:40:53.664Z",
-      "notes": "",
+      "cityName": "Lipinki Luzyckie",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-09-27T08:31:01.208Z",
+      "notes": "test",
       "position": {
-        "lat": "39.047590072234115",
-        "lng": "-4.350309622102258"
+        "lat": "51.672552975985425",
+        "lng": "14.987614555273016"
       },
       "id": 98443211
     }

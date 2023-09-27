@@ -1,12 +1,11 @@
 /* eslint-disable no-unused-vars */
-import { useParams, useSearchParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import styles from "./City.module.css";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { useCities } from "../contexts/CitiesContext";
 import Spinner from "./Spinner";
-import Button from "./Button";
+
 import BackButton from "./BackButton";
-// Doesn't work, i don't know why :(
 
 // const flagemojiToPNG = (flag) => {
 //   let countryCode = Array.from(flag, (codeUnit) => codeUnit.codePointAt())
@@ -31,14 +30,13 @@ function City() {
     function () {
       getCity(id);
     },
-    [id]
+    [id, getCity]
   );
 
   const { cityName, emoji, date, notes } = currentCity;
-
+  if (isLoading) return <Spinner />;
   return (
     <div className={styles.city}>
-      {isLoading && <Spinner />}
       {!isLoading && (
         <>
           <div className={styles.row}>
